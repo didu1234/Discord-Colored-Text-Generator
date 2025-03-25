@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #1e1e2e, #2b2b42);
+    color: white;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
