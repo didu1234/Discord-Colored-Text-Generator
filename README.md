@@ -9,6 +9,8 @@ A simple and stylish Discord Colored Text Generator built with React, Mantine UI
 ✅ Copy to Clipboard – Easily copy the generated code for Discord.
 ✅ Modern UI – Built with Mantine UI for a sleek, responsive design.
 
+![Image](https://github.com/user-attachments/assets/fb40cc24-be8e-478a-ac21-c5ebec9f5bf2)
+
   Run the Project
 ----> npm run dev
 
